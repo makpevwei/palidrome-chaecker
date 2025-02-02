@@ -1,1 +1,1 @@
-# palidrome-chaecker
+# palidrome-checker
